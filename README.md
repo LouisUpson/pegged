@@ -9,12 +9,12 @@ Pegged.io
 
 - Use cursor to jump from peg to peg on map.
 - Collect power ups from pegs to help you get stronger.
-- How many pegs you can cover will depend on how many growth pegs obsorbed.
+- How many pegs you can cover will depend on how many growth power ups obsorbed.
 - You take damage if you stay on a peg too long.
-- You can entrap and push other players around you using power ups.
+- You can affect other players using power-ups and movement. 
 
 #### Gameplay Rules
 
 - Players will not take damage until they have atleast one power up.
 - Everytime a player joins pegs will increase in activity. The reverse is also true.
-- You die instantly if the peg you choose already has an opponent on it.
+- Instant death happens if the peg you move to already has an opponent on it.
